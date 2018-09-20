@@ -1,0 +1,77 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Style1">
+        <item name="android:text">Styles &amp; Material Design</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">399dp</item>
+        <item name="android:layout_height">42dp</item>
+        <item name="android:layout_marginStart">10dp</item>
+    </style>
+
+    <style name="image">
+        <item name="android:background">#8eacbb</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">340dp</item>
+    </style>
+
+    <style name="title">
+        <item name="android:text">Qi Spa</item>
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_width">369dp</item>
+        <item name="android:layout_height">64dp</item>
+    </style>
+
+    <style name="Style2">
+        <item name="android:layout_width">366dp</item>
+        <item name="android:layout_height">69dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:lineSpacingExtra">8sp</item>
+        <item name="android:text">Location: 104A D. Tuazon, Quezon City, Luzon 1113 Philippines</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_marginStart">22dp</item>
+        <item name="android:layout_marginEnd">23dp</item>
+    </style>
+
+    <style name="Style3">
+        <item name="android:layout_width">366dp</item>
+        <item name="android:layout_height">32dp</item>
+        <item name="android:layout_marginEnd">23dp</item>
+        <item name="android:layout_marginStart">22dp</item>
+        <item name="android:layout_marginBottom">179dp</item>
+        <item name="android:text">Distance from UST: 0.9 km</item>
+    </style>
+
+    <style name="BackButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">80dp</item>
+        <item name="android:layout_marginEnd">67dp</item>
+        <item name="android:layout_marginStart">51dp</item>
+        <item name="android:layout_marginTop">30dp</item>
+        <item name="android:text">BACK</item>
+    </style>
+
+    <style name="NextButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">80dp</item>
+        <item name="android:layout_marginEnd">67dp</item>
+        <item name="android:layout_marginStart">51dp</item>
+        <item name="android:layout_marginTop">30dp</item>
+        <item name="android:text">NEXT</item>
+    </style>
+
+</resources>
